@@ -5,7 +5,7 @@ I'm a Software Engineer(Back-End) at Gameria.tv. Gameria is a platform for Irani
 
 ## Favorite technologies and Tools
 * Linux
-* Docker, K8s, Nomad
-* Elixir(Phoenix Framework), Erlang
+* Docker, K8s
+* Elixir(Phoenix Framework), Erlang, Golang
 * Rust, C(system programming languages)
 * Solidity
